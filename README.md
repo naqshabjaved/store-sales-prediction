@@ -10,7 +10,7 @@ This project was developed as a data science assignment.
 
 You can view and interact with the deployed Streamlit app here:
 
-**[Live App Link](https://your-streamlit-app-url.streamlit.app/)** *(You will get this URL after you deploy it on Streamlit Community Cloud)*
+**[Live App Link](https://store-sales-prediction-naqshab.streamlit.app/)** 
 
 ---
 
