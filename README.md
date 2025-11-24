@@ -41,10 +41,5 @@ The final **Random Forest Regressor** model was chosen after comparing it with a
 
 ### 1. Clone the Repository
 ```bash
-<<<<<<< HEAD
 git clone [https://github.com/naqshabjaved/Store-Sales-Prediction.git](https://github.com/naqshabjaved/Store-Sales-Prediction.git)
 cd Store-Sales-Prediction
-=======
-git clone [https://github.com/your-username/Store-Sales-Prediction.git](https://github.com/your-username/Store-Sales-Prediction.git)
-cd Store-Sales-Prediction
->>>>>>> c47ab1bdd232d693b08efc9b0771c60a9bacc616
