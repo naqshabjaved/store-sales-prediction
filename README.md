@@ -21,6 +21,15 @@ The final **Random Forest Regressor** model was chosen after comparing it with a
 * **R² Score:** **0.56** (explains 56% of the variance in sales)
 * **Root Mean Squared Error (RMSE):** **1090.13**
 
+## Technologies Used
+
+* **Python**
+* **Pandas** & **Numpy** for data manipulation and cleaning.
+* **Scikit-learn** for modeling (RandomForestRegressor, LabelEncoder, OneHotEncoder) and preprocessing.
+* **Jupyter** for exploratory data analysis.
+* **Joblib** for saving and loading model artifacts.
+* **Streamlit** for building and deploying the interactive web app.
+
 **Key Feature Engineering:**
 * **`Item_Category`**: Item types were grouped into 'Food', 'Non-Consumable', and 'Drink' to create a stronger feature.
 * **`Outlet_Years`**: Created from `Outlet_Establishment_Year` to represent the age of the store.
@@ -32,5 +41,10 @@ The final **Random Forest Regressor** model was chosen after comparing it with a
 
 ### 1. Clone the Repository
 ```bash
+<<<<<<< HEAD
 git clone [https://github.com/naqshabjaved/Store-Sales-Prediction.git](https://github.com/naqshabjaved/Store-Sales-Prediction.git)
 cd Store-Sales-Prediction
+=======
+git clone [https://github.com/your-username/Store-Sales-Prediction.git](https://github.com/your-username/Store-Sales-Prediction.git)
+cd Store-Sales-Prediction
+>>>>>>> c47ab1bdd232d693b08efc9b0771c60a9bacc616
